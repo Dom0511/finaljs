@@ -60,7 +60,7 @@ td {
 /* Add placeholder color */
 .form-group input::placeholder {
     color: black;
-    background-color: aqua;
+    
 }
 
 
